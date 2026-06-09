@@ -1,0 +1,6 @@
+{
+  "name": "E2EE Project",
+  "dockerComposeFile": "docker-compose.yml",
+  "service": "db",
+  "workspaceFolder": "/workspaces/${localWorkspaceFolderBasename}"
+}
